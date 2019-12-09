@@ -297,11 +297,9 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
 * [Clément Delmas](https://www.clementdelmas.fr/)
-* [Luc Bourdot](https://mastodon.etalab.gouv.fr/@luc) Pole Logiciels Libres & EOLE
-* [Félix Girault](https://fglt.fr), développeur
-* [Francois Marot](https://twitter.com/FrancoisMarot), développeur, Architecte, Human Being
 * [Théo Fidry](https://twitter.com/tfidry), développeur
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
+* [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
 
 ### Organisations
 
